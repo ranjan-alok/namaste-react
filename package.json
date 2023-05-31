@@ -1,0 +1,26 @@
+{
+  "name": "namastereact",
+  "version": "1.0.0",
+  "description": "This is Namaste React !!",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ranjan-alok/namaste-react.git"
+  },
+  "keywords": [
+    "react",
+    "namaste-react"
+  ],
+  "author": "Alok Ranjan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ranjan-alok/namaste-react/issues"
+  },
+  "homepage": "https://github.com/ranjan-alok/namaste-react#readme",
+  "devDependencies": {
+    "parcel": "^2.9.1"
+  }
+}
